@@ -37,6 +37,10 @@
     color:orangered;
 }
 
+.newList{
+    color: gray;
+}
+
 .text{
     font-family: Heebo, sans-serif;
     width: 150px;
